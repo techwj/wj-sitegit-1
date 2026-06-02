@@ -1,0 +1,59 @@
+{
+  "siteId": "fat-loss-breakfast-combo",
+  "generatedAt": "2026-06-02T15:35:08.193536",
+  "categories": [
+    "beginner-fat-loss-breakfast-combo",
+    "advanced-fat-loss-breakfast-combo",
+    "tips-fat-loss-breakfast-combo",
+    "history-fat-loss-breakfast-combo",
+    "trending-fat-loss-breakfast-combo",
+    "tutorials-fat-loss-breakfast-combo"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-fat-loss-breakfast-combo",
+      "category_name": "Beginner Fat Loss Breakfast Combo"
+    },
+    {
+      "category_slug": "advanced-fat-loss-breakfast-combo",
+      "category_name": "Advanced Fat Loss Breakfast Combo"
+    },
+    {
+      "category_slug": "tips-fat-loss-breakfast-combo",
+      "category_name": "Fat Loss Breakfast Combo Tips"
+    },
+    {
+      "category_slug": "history-fat-loss-breakfast-combo",
+      "category_name": "Fat Loss Breakfast Combo History"
+    },
+    {
+      "category_slug": "trending-fat-loss-breakfast-combo",
+      "category_name": "Trending Fat Loss Breakfast Combo"
+    },
+    {
+      "category_slug": "tutorials-fat-loss-breakfast-combo",
+      "category_name": "Fat Loss Breakfast Combo Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "fat-loss-breakfast-combo",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Fat Loss Breakfast Combo Central",
+    "articles_per_row": 4
+  }
+}
